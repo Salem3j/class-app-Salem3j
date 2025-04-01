@@ -1,0 +1,17 @@
+<resources>
+<!-- Planet Details -->
+<string name="planet_image_desc">Planet Image</string>
+<string name="planet_name">Name: %s</string>
+<string name="planet_type">Type: %s</string>
+<string name="planet_distance">Distance: %.2f AU</string>
+<string name="planet_moons">Moons: %d</string>
+<string name="planet_composition">Composition: %s</string>
+
+<!-- Add these if missing -->
+<string name="app_name">ClassApp</string>
+<string name="title_activity_main">MainActivity</string>
+<string name="planet_name_detail">Name: %s</string>
+<string name="planet_type_detail">Type: %s</string>
+<string name="planet_distance_detail">Distance: %.2f AU</string>
+<string name="planet_moons_detail">Moons: %d</string>
+</resources>

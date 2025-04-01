@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="planet_image_size">300dp</dimen>
+    <dimen name="detail_padding">24dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="planet_title_size">32sp</dimen>
+    <dimen name="planet_subtitle_size">20sp</dimen>
+</resources>
